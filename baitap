@@ -1,0 +1,5 @@
+run:
+Error: Could not find or load main class sun.applet.AppletViewer
+Caused by: java.lang.ClassNotFoundException: sun.applet.AppletViewer
+C:\Users\thang\AppData\Local\NetBeans\Cache\22\executor-snippets\run-applet.xml:28: Java returned: 1
+BUILD FAILED (total time: 0 seconds)
